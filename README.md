@@ -3,8 +3,6 @@ Musical-Notes
 
 Identify musical notes as they appear
 
-[![Build Status]
-
 ### Running locally
 
 **TODO**
@@ -27,7 +25,7 @@ knowledge of the balanced-dashboard application.
 
 ### Development guidelines
 
-1. Fork it (`git clone git://github.com/balanced/balanced-dashboard.git`)
+1. Fork it (`git clone git://github.com/jeanfleblanc/Musical-Notes.git`)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Write your code **and unit tests**
 4. Ensure all tests still pass (`grunt test`)
