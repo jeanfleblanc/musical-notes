@@ -1,4 +1,4 @@
-Musical-Notes
+musical-notes
 =============
 
 Identify musical notes as they appear
